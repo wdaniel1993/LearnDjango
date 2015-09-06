@@ -1,2 +1,2 @@
 # LearnDjango
-Trying Django and GIT-ignore
+Trying Django and GIT
