@@ -1,1 +1,2 @@
 # LearnDjango
+Trying Django
